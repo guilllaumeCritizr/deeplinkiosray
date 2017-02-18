@@ -1,7 +1,6 @@
 {
-	"name": "Single Board Computers",
-	"description": "A barebones ingle Board Computers app",
-	"repository": "https://git.heroku.com/rw-universal-links.git",
-	"logo": "https://rw-universal-links.herokuapp.com/logo.png",
-	"keywords": ["SBC", "universal links"]
+	"name": "Critizr Deep Link",
+	"description": "Fake website for showing deep link redirect",
+	"repository": "https://git.heroku.com/critizr.git",
+	"keywords": ["Critizr", "universal links", "deep link"]
 }
